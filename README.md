@@ -1,3 +1,3 @@
-pip install qr code
+pip install qrcode
 
 Then the rest is simple. 
